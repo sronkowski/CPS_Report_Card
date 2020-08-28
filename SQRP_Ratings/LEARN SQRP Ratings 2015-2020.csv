@@ -1,36 +1,36 @@
 School ID,School Name,Network ,SQRP Total Points Earned,SQRP Rating,Accountability Status,School Year
-400151.0,LEARN - 7,CHARTER,2.7,Level 2,Not Applicable,2015-2016
-400046.0,LEARN - BUTLER,CHARTER,3.4,Level 1,Not Applicable,2015-2016
-400047.0,LEARN - CAMPBELL,CHARTER,2.9,Level 2,Not Applicable,2015-2016
-400048.0,LEARN - EXCEL,CHARTER,2.1,Level 2,Not Applicable,2015-2016
-400165.0,LEARN - MIDDLE,CHARTER,3.4,Level 2+,Not Applicable,2015-2016
-400111.0,LEARN - PERKINS,CHARTER,3.2,Level 2+,Not Applicable,2015-2016
-400107.0,LEARN - SOUTH CHICAGO,CHARTER,4.2,Level 1+,Not Applicable,2015-2016
-400151.0,LEARN - 7,CHARTER,2.6,Level 2,Not Applicable,2016-2017
-400046.0,LEARN - BUTLER,CHARTER,2.8,Level 2,Not Applicable,2016-2017
-400047.0,LEARN - CAMPBELL,CHARTER,3.3,Level 2+,Not Applicable,2016-2017
-400048.0,LEARN - EXCEL,CHARTER,3.5,Level 1,Not Applicable,2016-2017
-400165.0,LEARN - MIDDLE,CHARTER,4.3,Level 1+,Not Applicable,2016-2017
-400111.0,LEARN - PERKINS,CHARTER,3.4,Level 2+,Not Applicable,2016-2017
-400107.0,LEARN - SOUTH CHICAGO,CHARTER,3.4,Level 2+,Not Applicable,2016-2017
-400046.0,LEARN - BUTLER,Charter,3.9,Level 1,Not Applicable,2017-2018
-400047.0,LEARN - CAMPBELL,Charter,3.5,Level 1,Not Applicable,2017-2018
-400048.0,LEARN - EXCEL,Charter,4.3,Level 1+,Not Applicable,2017-2018
-400107.0,LEARN - SOUTH CHICAGO,Charter,2.7,Level 2,Not Applicable,2017-2018
-400111.0,LEARN - PERKINS,Charter,3.5,Level 1,Not Applicable,2017-2018
-400151.0,LEARN - 7,Charter,3.1,Level 2+,Not Applicable,2017-2018
-400165.0,LEARN - MIDDLE,Charter,2.6,Level 2,Not Applicable,2017-2018
-400046.0,LEARN - BUTLER,Charter,3.0,Level 2+,Not Applicable,2018-2019
-400047.0,LEARN - CAMPBELL,Charter,3.3,Level 2+,Not Applicable,2018-2019
-400048.0,LEARN - EXCEL,Charter,3.7,Level 1,Not Applicable,2018-2019
-400107.0,LEARN - SOUTH CHICAGO,Charter,3.3,Level 2+,Not Applicable,2018-2019
-400111.0,LEARN - PERKINS,Charter,3.5,Level 1,Not Applicable,2018-2019
-400151.0,LEARN - 7,Charter,2.2,Level 2,Not Applicable,2018-2019
-400165.0,LEARN - MIDDLE,Charter,3.5,Level 1,Not Applicable,2018-2019
-400046.0,LEARN - BUTLER,Charter,2.8,Level 2,Not Applicable,2019-2020
-400047.0,LEARN - CAMPBELL,Charter,4.6,Level 1+,Not Applicable,2019-2020
-400048.0,LEARN - EXCEL,Charter,3.9,Level 1,Not Applicable,2019-2020
-400107.0,LEARN - SOUTH CHICAGO,Charter,3,Level 2+,Not Applicable,2019-2020
-400111.0,LEARN - PERKINS,Charter,4.4,Level 1+,Not Applicable,2019-2020
-400151.0,LEARN - 7,Charter,2.6,Level 2,Not Applicable,2019-2020
-400165.0,LEARN - MIDDLE,Charter,3.3,Level 2+,Not Applicable,2019-2020
+400151,LEARN - 7,CHARTER,2.7,Level 2,Not Applicable,2015-2016
+400046,LEARN - BUTLER,CHARTER,3.4,Level 1,Not Applicable,2015-2016
+400047,LEARN - CAMPBELL,CHARTER,2.9,Level 2,Not Applicable,2015-2016
+400048,LEARN - EXCEL,CHARTER,2.1,Level 2,Not Applicable,2015-2016
+400165,LEARN - MIDDLE,CHARTER,3.4,Level 2+,Not Applicable,2015-2016
+400111,LEARN - PERKINS,CHARTER,3.2,Level 2+,Not Applicable,2015-2016
+400107,LEARN - SOUTH CHICAGO,CHARTER,4.2,Level 1+,Not Applicable,2015-2016
+400151,LEARN - 7,CHARTER,2.6,Level 2,Not Applicable,2016-2017
+400046,LEARN - BUTLER,CHARTER,2.8,Level 2,Not Applicable,2016-2017
+400047,LEARN - CAMPBELL,CHARTER,3.3,Level 2+,Not Applicable,2016-2017
+400048,LEARN - EXCEL,CHARTER,3.5,Level 1,Not Applicable,2016-2017
+400165,LEARN - MIDDLE,CHARTER,4.3,Level 1+,Not Applicable,2016-2017
+400111,LEARN - PERKINS,CHARTER,3.4,Level 2+,Not Applicable,2016-2017
+400107,LEARN - SOUTH CHICAGO,CHARTER,3.4,Level 2+,Not Applicable,2016-2017
+400046,LEARN - BUTLER,Charter,3.9,Level 1,Not Applicable,2017-2018
+400047,LEARN - CAMPBELL,Charter,3.5,Level 1,Not Applicable,2017-2018
+400048,LEARN - EXCEL,Charter,4.3,Level 1+,Not Applicable,2017-2018
+400107,LEARN - SOUTH CHICAGO,Charter,2.7,Level 2,Not Applicable,2017-2018
+400111,LEARN - PERKINS,Charter,3.5,Level 1,Not Applicable,2017-2018
+400151,LEARN - 7,Charter,3.1,Level 2+,Not Applicable,2017-2018
+400165,LEARN - MIDDLE,Charter,2.6,Level 2,Not Applicable,2017-2018
+400046,LEARN - BUTLER,Charter,3.0,Level 2+,Not Applicable,2018-2019
+400047,LEARN - CAMPBELL,Charter,3.3,Level 2+,Not Applicable,2018-2019
+400048,LEARN - EXCEL,Charter,3.7,Level 1,Not Applicable,2018-2019
+400107,LEARN - SOUTH CHICAGO,Charter,3.3,Level 2+,Not Applicable,2018-2019
+400111,LEARN - PERKINS,Charter,3.5,Level 1,Not Applicable,2018-2019
+400151,LEARN - 7,Charter,2.2,Level 2,Not Applicable,2018-2019
+400165,LEARN - MIDDLE,Charter,3.5,Level 1,Not Applicable,2018-2019
+400046,LEARN - BUTLER,Charter,2.8,Level 2,Not Applicable,2019-2020
+400047,LEARN - CAMPBELL,Charter,4.6,Level 1+,Not Applicable,2019-2020
+400048,LEARN - EXCEL,Charter,3.9,Level 1,Not Applicable,2019-2020
+400107,LEARN - SOUTH CHICAGO,Charter,3.0,Level 2+,Not Applicable,2019-2020
+400111,LEARN - PERKINS,Charter,4.4,Level 1+,Not Applicable,2019-2020
+400151,LEARN - 7,Charter,2.6,Level 2,Not Applicable,2019-2020
+400165,LEARN - MIDDLE,Charter,3.3,Level 2+,Not Applicable,2019-2020
